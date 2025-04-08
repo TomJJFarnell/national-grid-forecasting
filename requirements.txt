@@ -1,0 +1,27 @@
+# Core libraries\
+numpy              # Numerical computing\
+pandas             # Data manipulation and analysis\
+datetime           # Date/time handling (built-in module)\
+json               # JSON file handling (built-in module)\
+os                 # Operating system interface (built-in module)\
+logging            # Logging for debugging (built-in module)\
+\
+# Plotting & visualization\
+matplotlib         # Plotting and visualization\
+seaborn            # Statistical data visualization\
+\
+# Machine learning\
+scikit-learn       # ML utilities: scaling, regression, evaluation\
+xgboost            # Gradient boosting model\
+\
+# Deep learning\
+tensorflow         # Deep learning framework (used with Keras)\
+keras              # High-level API for neural networks\
+\
+# Time series forecasting\
+prophet            # Time series model by Facebook (formerly fbprophet)\
+statsmodels        # Statistical models, including time series analysis\
+\
+# Utilities\
+joblib             # Parallel processing and model saving\
+requests           # HTTP requests for APIs and web scraping}
